@@ -14,4 +14,4 @@ jobs:
           - name: Meterian Scanner
             uses: MeterianHQ/meterian-github-action@v1.0.13
             env:
-              METERIAN_API_TOKEN: ${{ secrets.6c5d4f22-99c1-4e22-8c9e-690924be3daa }}
+              METERIAN_API_TOKEN: 6c5d4f22-99c1-4e22-8c9e-690924be3daa
